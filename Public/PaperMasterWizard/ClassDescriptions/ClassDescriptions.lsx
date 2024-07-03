@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                    <attribute id="Description" type="TranslatedString" handle="3680609b-b5d0-4e55-9b22-77551a480c38" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="3680609b-b5d0-4e55-9b22-77551a480c37" version="1" />
+                    <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="MustPrepareSpells" type="bool" value="true" />
+                    <attribute id="Name" type="FixedString" value="ChronurgyMagic" />
+                    <attribute id="ParentGuid" type="guid" value="9b8a662c-a9df-4764-8fd6-4bd6b3772a5d" />
+                    <attribute id="PrimaryAbility" type="uint8" value="4" />
+                    <attribute id="ProgressionTableUUID" type="guid" value="fa7ecb4c-6257-4b24-a950-364390407652" />
+                    <attribute id="SoundClassType" type="FixedString" value="Wizard" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="4" />
+                    <attribute id="UUID" type="guid" value="fab18e55-107a-45e8-a92f-0b394919addb" />       					
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

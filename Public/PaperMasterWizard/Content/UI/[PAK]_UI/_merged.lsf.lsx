@@ -11,7 +11,7 @@
 					<attribute id="SRGB" type="bool" value="True" />
 					<attribute id="SourceFile" type="LSString" value="Public/PaperMasterWizard/Assets/Textures/Icons/Icons_PaperMaster.dds" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Icons_Skills" />
+					<attribute id="Template" type="FixedString" value="Icons_Items" />
 					<attribute id="Type" type="int32" value="0" />
 				</node>
 			</children>

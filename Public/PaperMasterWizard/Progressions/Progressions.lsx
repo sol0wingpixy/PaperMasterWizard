@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)" />
+                    <attribute id="Level" type="uint8" value="2" />
+                    <attribute id="Name" type="LSString" value="Wizard" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="1c8205e3-e74e-4980-abdd-cfb73cdebfe8" />
+                    <attribute id="UUID" type="guid" value="25842d23-b188-4c87-9085-aacb6eb35761" />
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass"> Paper Master
+                                    <attribute id="Object" type="guid" value="fab18e55-107a-45e8-a92f-0b394919addb" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

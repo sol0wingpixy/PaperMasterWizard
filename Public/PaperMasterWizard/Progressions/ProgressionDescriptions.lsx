@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="3680609b-b5d0-4e55-9b22-77551a480c38" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="3680609b-b5d0-4e55-9b22-77551a480c37" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="ChronurgyMagic" />
+                    <attribute id="ProgressionTableId" type="guid" value="fa7ecb4c-6257-4b24-a950-364390407652" />
+                    <attribute id="UUID" type="guid" value="ed4ac24d-b6e8-47c6-99d8-78a42eda1126" />
+			</node>
+      </children>
+    </node>
+  </region>
+</save>

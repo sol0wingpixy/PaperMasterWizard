@@ -64,4 +64,5 @@ data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;HasHighGroundR
 data "HitAnimationType" "MagicalDamage_External"
 data "PrepareEffect" "db5705a1-824d-42a3-8d09-2352b9cd4af9"
 data "CastEffect" "8efc6eb0-f05a-4208-a07f-d028fd33787b"
+data "HitEffect" "8efc6eb0-f05a-4208-a07f-d028fd33787b"
 data "DamageType" "Slashing"
